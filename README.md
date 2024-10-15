@@ -1,5 +1,6 @@
-# Vue 3 + Vite
+Desafio templates.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Se crea un formulario con distintos elementos para cambiar el color de fondo, color de letra, decidir si el texto se muestra o no, que tan redondo seran los bordes del 'cuadrado', el estilo de letra y su tamaño. Al ir escribiendo en los input estos datos se cambiaran en tiempo real.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+El proyecto ha sido levantado en Vercel.
+https://desafio-templates.vercel.app/ <----- Link al proyecto
